@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Guilherme Faga
 
-<!--
-**GuilhermeFaga/GuilhermeFaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Fullstack Engineer | Next.js • TypeScript • Python
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate Fullstack Engineer with hands-on experience building robust, scalable, and delightful web applications. My main stack revolves around:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, Node.js, RESTful APIs
+- **DevOps & Cloud:** Docker, Vercel, GCP
+- **Testing:** Jest, Pytest
+
+---
+
+## 🛠️ What I Do
+
+- Architect & develop end-to-end solutions: from sleek UIs to solid APIs
+- Champion TypeScript and modern JavaScript best practices
+- Automate and streamline development workflows
+- Always learning, always shipping 🚢
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/guilherme-faga/)
+
+---
+
+## 📊 GitHub Stats
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFaga&show_icons=true&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+Thanks for stopping by! Let’s build something amazing together. 🚀
