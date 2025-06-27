@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Engineer with hands-on 
 - **DevOps & Cloud:** Docker, Vercel, GCP
 - **Testing:** Jest, Pytest
 
----
-
 ## 🛠️ What I Do
 
 - Architect & develop end-to-end solutions: from sleek UIs to solid APIs
@@ -18,22 +16,16 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Engineer with hands-on 
 - Automate and streamline development workflows
 - Always learning, always shipping 🚢
 
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-faga/)
-
----
 
 ## 📊 GitHub Stats
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFaga&show_icons=true&theme=radical)
 
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
 
 Thanks for stopping by! Let’s build something amazing together. 🚀
